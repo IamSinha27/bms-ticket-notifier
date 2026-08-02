@@ -1,5 +1,29 @@
 {
   "shows": {
+    "DMPZ|25438|20260802|RECLINER": {
+      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
+      "time": "03:55 PM",
+      "date": "20260802",
+      "cat": "RECLINER",
+      "price": "700.00",
+      "status": "0"
+    },
+    "DMPZ|25438|20260802|PRIME": {
+      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
+      "time": "03:55 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "510.00",
+      "status": "0"
+    },
+    "DMPZ|25438|20260802|CLASSIC": {
+      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
+      "time": "03:55 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "460.00",
+      "status": "2"
+    },
     "DMPZ|25445|20260802|RECLINER": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
       "time": "10:25 PM",
@@ -24,30 +48,6 @@
       "price": "380.00",
       "status": "3"
     },
-    "CLMK|5484|20260802|NORMAL": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "12:20 PM",
-      "date": "20260802",
-      "cat": "NORMAL",
-      "price": "460.00",
-      "status": "3"
-    },
-    "CLMK|5484|20260802|EXECUTIVE": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "12:20 PM",
-      "date": "20260802",
-      "cat": "EXECUTIVE",
-      "price": "480.00",
-      "status": "1"
-    },
-    "CLMK|5484|20260802|PREMIUM": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "12:20 PM",
-      "date": "20260802",
-      "cat": "PREMIUM",
-      "price": "500.00",
-      "status": "1"
-    },
     "CLMK|5607|20260802|NORMAL": {
       "venue": "Cinepolis: Lake Mall, Kolkata",
       "time": "07:20 PM",
@@ -61,7 +61,7 @@
       "time": "07:20 PM",
       "date": "20260802",
       "cat": "EXECUTIVE",
-      "price": "430.00",
+      "price": "450.00",
       "status": "3"
     },
     "CLMK|5607|20260802|PREMIUM": {
@@ -69,7 +69,7 @@
       "time": "07:20 PM",
       "date": "20260802",
       "cat": "PREMIUM",
-      "price": "490.00",
+      "price": "510.00",
       "status": "1"
     },
     "CLMK|5482|20260802|NORMAL": {
@@ -406,7 +406,7 @@
       "date": "20260802",
       "cat": "ROYAL",
       "price": "370.00",
-      "status": "3"
+      "status": "2"
     },
     "IMJN|19155|20260802|CLUB": {
       "venue": "INOX: Metro, Jawaharlal Nehru Road",
@@ -478,7 +478,7 @@
       "date": "20260802",
       "cat": "GOLD",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "BARA|68873|20260802|PLATINUM": {
       "venue": "Bioscope: Axis Mall, Rajarhat",
@@ -584,6 +584,14 @@
       "price": "220.00",
       "status": "3"
     },
+    "INHD|41145|20260802|PREMIUM": {
+      "venue": "Hind INOX: Kolkata",
+      "time": "10:00 PM",
+      "date": "20260802",
+      "cat": "PREMIUM",
+      "price": "250.00",
+      "status": "3"
+    },
     "INHD|41145|20260802|SILVER": {
       "venue": "Hind INOX: Kolkata",
       "time": "10:00 PM",
@@ -599,14 +607,6 @@
       "cat": "EXECUTIVE",
       "price": "250.00",
       "status": "3"
-    },
-    "INHD|41145|20260802|PREMIUM": {
-      "venue": "Hind INOX: Kolkata",
-      "time": "10:00 PM",
-      "date": "20260802",
-      "cat": "PREMIUM",
-      "price": "250.00",
-      "status": "3"
     }
   },
   "dates": {
@@ -614,7 +614,7 @@
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
-    "20260806": "NOT_OPEN",
+    "20260806": "AVAILABLE",
     "20260807": "NOT_OPEN",
     "20260808": "NOT_OPEN"
   }
