@@ -8,6 +8,14 @@
       "price": "450.00",
       "status": "3"
     },
+    "INQM|142430|20260803|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:15 AM",
+      "date": "20260803",
+      "cat": "ROYAL",
+      "price": "260.00",
+      "status": "3"
+    },
     "INQM|142430|20260803|CLUB": {
       "venue": "INOX: Quest Mall",
       "time": "08:15 AM",
@@ -21,14 +29,6 @@
       "time": "08:15 AM",
       "date": "20260803",
       "cat": "EXECUTIVE",
-      "price": "260.00",
-      "status": "3"
-    },
-    "INQM|142430|20260803|ROYAL": {
-      "venue": "INOX: Quest Mall",
-      "time": "08:15 AM",
-      "date": "20260803",
-      "cat": "ROYAL",
       "price": "260.00",
       "status": "3"
     },
@@ -62,126 +62,6 @@
       "date": "20260803",
       "cat": "EXECUTIVE",
       "price": "260.00",
-      "status": "3"
-    },
-    "DMPZ|25564|20260803|RECLINER": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "530.00",
-      "status": "3"
-    },
-    "DMPZ|25564|20260803|PRIME": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20260803",
-      "cat": "PRIME",
-      "price": "310.00",
-      "status": "3"
-    },
-    "DMPZ|25564|20260803|CLASSIC": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20260803",
-      "cat": "CLASSIC",
-      "price": "240.00",
-      "status": "3"
-    },
-    "DMPZ|25466|20260803|RECLINER": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "09:35 AM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "530.00",
-      "status": "3"
-    },
-    "DMPZ|25466|20260803|PRIME": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "09:35 AM",
-      "date": "20260803",
-      "cat": "PRIME",
-      "price": "310.00",
-      "status": "3"
-    },
-    "DMPZ|25466|20260803|CLASSIC": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "09:35 AM",
-      "date": "20260803",
-      "cat": "CLASSIC",
-      "price": "240.00",
-      "status": "3"
-    },
-    "DMPZ|25468|20260803|RECLINER": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "10:00 AM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "530.00",
-      "status": "3"
-    },
-    "DMPZ|25468|20260803|PRIME": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "10:00 AM",
-      "date": "20260803",
-      "cat": "PRIME",
-      "price": "310.00",
-      "status": "3"
-    },
-    "DMPZ|25468|20260803|CLASSIC": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "10:00 AM",
-      "date": "20260803",
-      "cat": "CLASSIC",
-      "price": "240.00",
-      "status": "3"
-    },
-    "DMPZ|25467|20260803|RECLINER": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:45 PM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "590.00",
-      "status": "3"
-    },
-    "DMPZ|25467|20260803|PRIME": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:45 PM",
-      "date": "20260803",
-      "cat": "PRIME",
-      "price": "360.00",
-      "status": "3"
-    },
-    "DMPZ|25467|20260803|CLASSIC": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:45 PM",
-      "date": "20260803",
-      "cat": "CLASSIC",
-      "price": "320.00",
-      "status": "3"
-    },
-    "DMPZ|25469|20260803|RECLINER": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "10:25 PM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "560.00",
-      "status": "3"
-    },
-    "DMPZ|25469|20260803|PRIME": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "10:25 PM",
-      "date": "20260803",
-      "cat": "PRIME",
-      "price": "360.00",
-      "status": "3"
-    },
-    "DMPZ|25469|20260803|CLASSIC": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "10:25 PM",
-      "date": "20260803",
-      "cat": "CLASSIC",
-      "price": "320.00",
       "status": "3"
     },
     "CLMK|5520|20260803|NORMAL": {
