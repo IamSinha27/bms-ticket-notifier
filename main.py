@@ -374,7 +374,13 @@ def detect_changes(old_state, new_state):
     new_dates = new_state.get("dates", {})
     for dc, status in new_dates.items():
         old_status = old_dates.get(dc)
-        if (old_status == "NOT_OPEN"
+        if old_status is None:
+            # The date strip is a sliding window, so a date can enter it
+            # already bookable. The transition check below can never fire
+            # for those — it has no previous status to compare against.
+            if old_dates and status in ("BOOKABLE", "AVAILABLE"):
+                changes.append(f"📅 NEW DATE ADDED: {dc}")
+        elif (old_status == "NOT_OPEN"
                 and status in ("BOOKABLE", "AVAILABLE")):
             changes.append(f"📅 NEW DATE OPENED: {dc}")
 
