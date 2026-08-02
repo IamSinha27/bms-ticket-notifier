@@ -10,6 +10,8 @@ import os
 import re
 import sys
 import json
+import time
+import random
 from html import escape
 from datetime import datetime
 from dataclasses import dataclass, field
@@ -132,6 +134,11 @@ API_URL = (
     "showtimes-by-event/primary-dynamic"
 )
 
+# BMS bot-blocks datacenter IPs intermittently — retry rather than
+# lose the whole check slot to one 403.
+MAX_ATTEMPTS = 5
+RETRY_STATUSES = {403, 429, 500, 502, 503, 504}
+
 
 def fetch_bms(event_code, date_code, region_code, region_slug,
               lat, lon, geohash):
@@ -168,14 +175,29 @@ def fetch_bms(event_code, date_code, region_code, region_slug,
         "memberId": "", "lsId": "", "subCode": "",
         "lat": lat, "lon": lon,
     }
-    try:
-        resp = requests.get(API_URL, headers=headers,
-                            params=params, timeout=15)
-        if resp.status_code == 200:
-            return resp.json()
-        print(f"  HTTP {resp.status_code}")
-    except requests.RequestException as e:
-        print(f"  Request failed: {e}")
+    session = requests.Session()
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        try:
+            if attempt > 1:
+                # Prime cookies — the bot check is friendlier to a
+                # session that has already loaded the booking page.
+                session.get(headers["Referer"], headers=headers,
+                            timeout=15)
+            resp = session.get(API_URL, headers=headers,
+                               params=params, timeout=15)
+            if resp.status_code == 200:
+                return resp.json()
+            print(f"  HTTP {resp.status_code} "
+                  f"(attempt {attempt}/{MAX_ATTEMPTS})")
+            if resp.status_code not in RETRY_STATUSES:
+                return None
+        except requests.RequestException as e:
+            print(f"  Request failed: {e} "
+                  f"(attempt {attempt}/{MAX_ATTEMPTS})")
+        if attempt < MAX_ATTEMPTS:
+            delay = min(2 ** attempt, 30) + random.uniform(0, 1.5)
+            print(f"  ↻ retrying in {delay:.1f}s")
+            time.sleep(delay)
     return None
 
 
@@ -559,12 +581,15 @@ def main():
     all_dates = []
     movie_info = {"name": "Unknown", "language": ""}
 
+    fetched_any = False
+
     for dc in date_list:
         data = fetch_bms(event_code, dc, region_code,
                          region_slug_r, lat, lon, geohash)
         if not data:
             print(f"  ⚠️  No data for date {dc or '(default)'}")
             continue
+        fetched_any = True
 
         if movie_info["name"] == "Unknown":
             movie_info = parse_movie_info(data)
@@ -573,6 +598,11 @@ def main():
         all_shows.extend(parse_shows(data))
 
     if not all_shows:
+        if not fetched_any:
+            # Blocked, not empty — keep the old state and go red so a
+            # sustained outage is visible instead of silently green.
+            print("  ❌ Blocked by BookMyShow — no data fetched.")
+            sys.exit(1)
         print("  ❌ No showtimes found.")
         sys.exit(0)
 
