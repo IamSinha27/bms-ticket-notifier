@@ -288,30 +288,6 @@
       "price": "360.00",
       "status": "3"
     },
-    "MCKK|48480|20260802|RECLINER": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "11:30 AM",
-      "date": "20260802",
-      "cat": "RECLINER",
-      "price": "550.00",
-      "status": "1"
-    },
-    "MCKK|48480|20260802|EXECUTIVE": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "11:30 AM",
-      "date": "20260802",
-      "cat": "EXECUTIVE",
-      "price": "280.00",
-      "status": "1"
-    },
-    "MCKK|48480|20260802|SPECIAL": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "11:30 AM",
-      "date": "20260802",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
     "MCKK|48484|20260802|RECLINER": {
       "venue": "Miraj Cinemas: The Terminus, New Town",
       "time": "10:25 PM",
