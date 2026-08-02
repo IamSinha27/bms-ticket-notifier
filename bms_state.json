@@ -6,7 +6,7 @@
       "date": "20260802",
       "cat": "RECLINER",
       "price": "700.00",
-      "status": "2"
+      "status": "1"
     },
     "DMPZ|25445|20260802|PRIME": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -101,7 +101,7 @@
       "time": "09:55 PM",
       "date": "20260802",
       "cat": "ROYALE",
-      "price": "630.00",
+      "price": "670.00",
       "status": "2"
     },
     "INRK|96723|20260802|CLUB": {
@@ -191,94 +191,6 @@
       "cat": "Galleria",
       "price": "410.00",
       "status": "3"
-    },
-    "IMJN|19155|20260802|ROYAL": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "07:30 PM",
-      "date": "20260802",
-      "cat": "ROYAL",
-      "price": "410.00",
-      "status": "2"
-    },
-    "IMJN|19155|20260802|CLUB": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "07:30 PM",
-      "date": "20260802",
-      "cat": "CLUB",
-      "price": "350.00",
-      "status": "3"
-    },
-    "IMJN|19155|20260802|EXECUTIVE": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "07:30 PM",
-      "date": "20260802",
-      "cat": "EXECUTIVE",
-      "price": "290.00",
-      "status": "3"
-    },
-    "PCRA|19394|20260802|STALL": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "09:15 PM",
-      "date": "20260802",
-      "cat": "STALL",
-      "price": "200.00",
-      "status": "3"
-    },
-    "PCRA|19394|20260802|REAR": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "09:15 PM",
-      "date": "20260802",
-      "cat": "REAR",
-      "price": "200.00",
-      "status": "3"
-    },
-    "PCRA|19394|20260802|BOX": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "09:15 PM",
-      "date": "20260802",
-      "cat": "BOX",
-      "price": "250.00",
-      "status": "2"
-    },
-    "PCRA|19394|20260802|RECLINERS": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "09:15 PM",
-      "date": "20260802",
-      "cat": "RECLINERS",
-      "price": "500.00",
-      "status": "2"
-    },
-    "PCRA|19394|20260802|CLASSIC": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "09:15 PM",
-      "date": "20260802",
-      "cat": "CLASSIC",
-      "price": "250.00",
-      "status": "3"
-    },
-    "PCRA|19394|20260802|BALCONY": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "09:15 PM",
-      "date": "20260802",
-      "cat": "BALCONY",
-      "price": "220.00",
-      "status": "3"
-    },
-    "RTHK|4277|20260802|GOLD": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "08:20 PM",
-      "date": "20260802",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
-    "RTHK|4277|20260802|EXECUTIVE": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "08:20 PM",
-      "date": "20260802",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
-      "status": "1"
     },
     "INHD|41145|20260802|PREMIUM": {
       "venue": "Hind INOX: Kolkata",
