@@ -8,14 +8,6 @@
       "price": "450.00",
       "status": "3"
     },
-    "INQM|142430|20260803|ROYAL": {
-      "venue": "INOX: Quest Mall",
-      "time": "08:15 AM",
-      "date": "20260803",
-      "cat": "ROYAL",
-      "price": "260.00",
-      "status": "3"
-    },
     "INQM|142430|20260803|CLUB": {
       "venue": "INOX: Quest Mall",
       "time": "08:15 AM",
@@ -29,6 +21,14 @@
       "time": "08:15 AM",
       "date": "20260803",
       "cat": "EXECUTIVE",
+      "price": "260.00",
+      "status": "3"
+    },
+    "INQM|142430|20260803|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:15 AM",
+      "date": "20260803",
+      "cat": "ROYAL",
       "price": "260.00",
       "status": "3"
     },
