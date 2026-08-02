@@ -31,6 +31,12 @@ CONFIG = {
     "time_period": os.getenv("BMS_TIME", ""),      # e.g. "evening,night", empty = all
 }
 
+# Set by the daily-digest schedule. Off for the frequent checks, which
+# stay silent unless a new show or date turns up.
+ALWAYS_EMAIL = os.getenv(
+    "BMS_ALWAYS_EMAIL", ""
+).strip().lower() in ("1", "true", "yes")
+
 RESEND_API_KEY = os.getenv("RESEND_API_KEY", "")
 RESEND_TO_EMAIL = os.getenv("RESEND_TO_EMAIL", "")
 RESEND_FROM_EMAIL = os.getenv("RESEND_FROM_EMAIL", "aviiciii@resend.dev")
@@ -434,10 +440,17 @@ DATE_STATUS_LABEL = {
 }
 
 
+def has_new_shows(changes):
+    """True for a new date or showtime — the only thing worth an
+    out-of-band email. A sold-out show returning can wait for the
+    daily digest."""
+    return any(c.startswith(("📅", "🆕")) for c in changes)
+
+
 def build_subject(changes, movie_name):
     """A new date or showtime is the headline event; anything else
     (a sold-out show coming back) is a lesser update."""
-    if any(c.startswith(("📅", "🆕")) for c in changes):
+    if has_new_shows(changes):
         return f"NEW SHOW ADDED FOR {movie_name}"
     if changes:
         return f"BMS Update: {movie_name} — {len(changes)} change(s)"
@@ -713,9 +726,12 @@ def main():
     else:
         print("  ✅ No changes since last check.")
 
-    send_email(build_subject(changes, movie_info["name"]),
-               changes, filtered, movie_info,
-               new_state.get("dates", {}))
+    if has_new_shows(changes) or ALWAYS_EMAIL:
+        send_email(build_subject(changes, movie_info["name"]),
+                   changes, filtered, movie_info,
+                   new_state.get("dates", {}))
+    else:
+        print("  📭 Nothing new — holding for the daily digest.")
 
     # Print current status
     print(f"\n  Current status ({len(filtered)} shows):")
