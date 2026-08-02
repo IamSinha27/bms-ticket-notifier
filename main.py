@@ -417,7 +417,34 @@ def _cat_status_label(status):
     return AVAIL_STATUS_MAP.get(status, ("UNKNOWN", ""))[0]
 
 
-def send_email(subject, changes, shows, movie_info):
+def _pretty_date(date_code):
+    """20260807 -> 'Fri, 07 Aug 2026'. Falls back to the raw code."""
+    try:
+        return datetime.strptime(date_code, "%Y%m%d").strftime(
+            "%a, %d %b %Y"
+        )
+    except ValueError:
+        return date_code
+
+
+DATE_STATUS_LABEL = {
+    "BOOKABLE":  ("Bookable now", "#1a7f37"),
+    "AVAILABLE": ("Open",         "#1a7f37"),
+    "NOT_OPEN":  ("Not open yet", "#9a6700"),
+}
+
+
+def build_subject(changes, movie_name):
+    """A new date or showtime is the headline event; anything else
+    (a sold-out show coming back) is a lesser update."""
+    if any(c.startswith(("📅", "🆕")) for c in changes):
+        return f"NEW SHOW ADDED FOR {movie_name}"
+    if changes:
+        return f"BMS Update: {movie_name} — {len(changes)} change(s)"
+    return f"BMS: {movie_name} — no new shows"
+
+
+def send_email(subject, changes, shows, movie_info, dates=None):
     api_key = RESEND_API_KEY.strip()
     to = RESEND_TO_EMAIL.strip()
     frm = RESEND_FROM_EMAIL.strip() or "onboarding@resend.dev"
@@ -437,12 +464,49 @@ def send_email(subject, changes, shows, movie_info):
             for c in changes
         )
         changes_html = f"""
-        <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#333;">
-            Changes Detected
+        <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#b35309;">
+            What's New
         </h3>
         <ul style="margin:0 0 20px 0;padding-left:20px;line-height:1.6;color:#333;">
             {rows}
         </ul>"""
+    else:
+        changes_html = """
+        <p style="margin:0 0 20px 0;padding:10px 12px;background:#f5f5f5;
+                  border-radius:4px;font-size:14px;color:#555;">
+            No new shows or dates since the last check.
+        </p>"""
+
+    # Build available-dates HTML — sent on every run
+    dates_html = ""
+    if dates:
+        date_rows = ""
+        for dc in sorted(dates):
+            label, colour = DATE_STATUS_LABEL.get(
+                dates[dc], (dates[dc], "#666")
+            )
+            date_rows += (
+                f'<tr>'
+                f'<td style="padding:5px 8px;border-bottom:1px solid #ddd;'
+                f'font-size:13px;">{escape(_pretty_date(dc))}</td>'
+                f'<td style="padding:5px 8px;border-bottom:1px solid #ddd;'
+                f'font-size:13px;color:{colour};font-weight:bold;">'
+                f'{escape(label)}</td>'
+                f'</tr>'
+            )
+        dates_html = f"""
+        <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#333;">
+            Available Dates
+        </h3>
+        <table style="width:100%;border-collapse:collapse;margin:0 0 20px 0;">
+            <tr style="background:#f5f5f5;">
+                <th style="padding:5px 8px;text-align:left;border-bottom:1px solid #ddd;
+                           font-weight:bold;font-size:13px;">Date</th>
+                <th style="padding:5px 8px;text-align:left;border-bottom:1px solid #ddd;
+                           font-weight:bold;font-size:13px;">Status</th>
+            </tr>
+            {date_rows}
+        </table>"""
 
     # Build shows section grouped by venue
     venue_groups = {}
@@ -489,13 +553,14 @@ def send_email(subject, changes, shows, movie_info):
 <body style="margin:0;padding:24px;font-family:Arial,Helvetica,sans-serif;
              font-size:14px;color:#333;background:#fff;">
     <h2 style="margin:0 0 4px 0;font-size:18px;color:#111;">
-        BMS Alert: {escape(movie_name)}
+        {escape(movie_name)}
     </h2>
     <p style="margin:0 0 20px 0;font-size:13px;color:#666;">
         {escape(now_str)}
     </p>
     <hr style="border:none;border-top:1px solid #ddd;margin:0 0 20px 0;">
     {changes_html}
+    {dates_html}
     <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#333;">
         Current Showtimes
     </h3>
@@ -509,8 +574,16 @@ def send_email(subject, changes, shows, movie_info):
     # Build plain-text version with full show details
     plain_lines = [subject, "", f"Checked at: {now_str}", ""]
     if changes:
-        plain_lines.append("Changes Detected:")
+        plain_lines.append("What's New:")
         plain_lines.extend(f"  - {c}" for c in changes)
+    else:
+        plain_lines.append("No new shows or dates since the last check.")
+    plain_lines.append("")
+    if dates:
+        plain_lines.append("Available Dates:")
+        for dc in sorted(dates):
+            label = DATE_STATUS_LABEL.get(dates[dc], (dates[dc], ""))[0]
+            plain_lines.append(f"  {_pretty_date(dc)} - {label}")
         plain_lines.append("")
     plain_lines.append("Current Showtimes:")
     for vname, vshows in venue_groups.items():
@@ -637,12 +710,12 @@ def main():
         print(f"\n  ⚡ {len(changes)} change(s) detected:")
         for c in changes:
             print(f"     {c}")
-        send_email(
-            f"BMS Alert: {movie_info['name']} - {len(changes)} change(s)",
-            changes, filtered, movie_info,
-        )
     else:
         print("  ✅ No changes since last check.")
+
+    send_email(build_subject(changes, movie_info["name"]),
+               changes, filtered, movie_info,
+               new_state.get("dates", {}))
 
     # Print current status
     print(f"\n  Current status ({len(filtered)} shows):")
