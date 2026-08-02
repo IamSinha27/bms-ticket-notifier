@@ -1,29 +1,5 @@
 {
   "shows": {
-    "DMPZ|25438|20260802|RECLINER": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:55 PM",
-      "date": "20260802",
-      "cat": "RECLINER",
-      "price": "700.00",
-      "status": "0"
-    },
-    "DMPZ|25438|20260802|PRIME": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:55 PM",
-      "date": "20260802",
-      "cat": "PRIME",
-      "price": "510.00",
-      "status": "0"
-    },
-    "DMPZ|25438|20260802|CLASSIC": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:55 PM",
-      "date": "20260802",
-      "cat": "CLASSIC",
-      "price": "460.00",
-      "status": "1"
-    },
     "DMPZ|25445|20260802|RECLINER": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
       "time": "10:25 PM",
@@ -638,7 +614,7 @@
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
-    "20260806": "AVAILABLE",
+    "20260806": "NOT_OPEN",
     "20260807": "NOT_OPEN",
     "20260808": "NOT_OPEN"
   }
