@@ -8,14 +8,6 @@
       "price": "450.00",
       "status": "3"
     },
-    "INQM|142432|20260804|EXECUTIVE": {
-      "venue": "INOX: Quest Mall",
-      "time": "08:15 AM",
-      "date": "20260804",
-      "cat": "EXECUTIVE",
-      "price": "260.00",
-      "status": "3"
-    },
     "INQM|142432|20260804|ROYAL": {
       "venue": "INOX: Quest Mall",
       "time": "08:15 AM",
@@ -32,20 +24,20 @@
       "price": "260.00",
       "status": "3"
     },
+    "INQM|142432|20260804|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:15 AM",
+      "date": "20260804",
+      "cat": "EXECUTIVE",
+      "price": "260.00",
+      "status": "3"
+    },
     "INQM|142433|20260804|ROYAL RECLINER": {
       "venue": "INOX: Quest Mall",
       "time": "11:20 AM",
       "date": "20260804",
       "cat": "ROYAL RECLINER",
       "price": "450.00",
-      "status": "3"
-    },
-    "INQM|142433|20260804|EXECUTIVE": {
-      "venue": "INOX: Quest Mall",
-      "time": "11:20 AM",
-      "date": "20260804",
-      "cat": "EXECUTIVE",
-      "price": "260.00",
       "status": "3"
     },
     "INQM|142433|20260804|ROYAL": {
@@ -61,6 +53,14 @@
       "time": "11:20 AM",
       "date": "20260804",
       "cat": "CLUB",
+      "price": "260.00",
+      "status": "3"
+    },
+    "INQM|142433|20260804|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:20 AM",
+      "date": "20260804",
+      "cat": "EXECUTIVE",
       "price": "260.00",
       "status": "3"
     },
@@ -646,7 +646,7 @@
       "date": "20260804",
       "cat": "ROYALE",
       "price": "580.00",
-      "status": "3"
+      "status": "2"
     },
     "INRK|96775|20260804|CLUB": {
       "venue": "INOX: City Centre II, Rajarhat",
