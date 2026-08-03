@@ -8,14 +8,6 @@
       "price": "450.00",
       "status": "3"
     },
-    "INQM|142432|20260804|EXECUTIVE": {
-      "venue": "INOX: Quest Mall",
-      "time": "08:15 AM",
-      "date": "20260804",
-      "cat": "EXECUTIVE",
-      "price": "260.00",
-      "status": "3"
-    },
     "INQM|142432|20260804|ROYAL": {
       "venue": "INOX: Quest Mall",
       "time": "08:15 AM",
@@ -32,12 +24,28 @@
       "price": "260.00",
       "status": "3"
     },
+    "INQM|142432|20260804|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "08:15 AM",
+      "date": "20260804",
+      "cat": "EXECUTIVE",
+      "price": "260.00",
+      "status": "3"
+    },
     "INQM|142433|20260804|ROYAL RECLINER": {
       "venue": "INOX: Quest Mall",
       "time": "11:20 AM",
       "date": "20260804",
       "cat": "ROYAL RECLINER",
       "price": "450.00",
+      "status": "3"
+    },
+    "INQM|142433|20260804|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:20 AM",
+      "date": "20260804",
+      "cat": "ROYAL",
+      "price": "260.00",
       "status": "3"
     },
     "INQM|142433|20260804|CLUB": {
@@ -53,14 +61,6 @@
       "time": "11:20 AM",
       "date": "20260804",
       "cat": "EXECUTIVE",
-      "price": "260.00",
-      "status": "3"
-    },
-    "INQM|142433|20260804|ROYAL": {
-      "venue": "INOX: Quest Mall",
-      "time": "11:20 AM",
-      "date": "20260804",
-      "cat": "ROYAL",
       "price": "260.00",
       "status": "3"
     },
@@ -525,8 +525,8 @@
       "time": "03:45 PM",
       "date": "20260804",
       "cat": "RECLINER",
-      "price": "670.00",
-      "status": "3"
+      "price": "700.00",
+      "status": "2"
     },
     "MSMA|21276|20260804|PRIME": {
       "venue": "PVR: Mani Square Mall, Kolkata",
