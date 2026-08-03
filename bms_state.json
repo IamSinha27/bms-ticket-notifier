@@ -6,7 +6,7 @@
       "date": "20260803",
       "cat": "RECLINER",
       "price": "620.00",
-      "status": "1"
+      "status": "0"
     },
     "DMPZ|25469|20260803|PRIME": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -22,150 +22,6 @@
       "date": "20260803",
       "cat": "CLASSIC",
       "price": "320.00",
-      "status": "3"
-    },
-    "CAML|5023|20260803|NORMAL": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "10:40 PM",
-      "date": "20260803",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CAML|5023|20260803|EXECUTIVE": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "10:40 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CAML|5023|20260803|PREMIUM": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "10:40 PM",
-      "date": "20260803",
-      "cat": "PREMIUM",
-      "price": "320.00",
-      "status": "3"
-    },
-    "MCKK|48503|20260803|EXECUTIVE": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "08:30 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MCKK|48503|20260803|SPECIAL": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "08:30 PM",
-      "date": "20260803",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MCKK|48503|20260803|RECLINER": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "08:30 PM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "470.00",
-      "status": "3"
-    },
-    "MCKK|48502|20260803|EXECUTIVE": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "11:25 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MCKK|48502|20260803|SPECIAL": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "11:25 PM",
-      "date": "20260803",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MCKK|48502|20260803|RECLINER": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "11:25 PM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "470.00",
-      "status": "3"
-    },
-    "INRK|96744|20260803|ROYALE": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "ROYALE",
-      "price": "580.00",
-      "status": "2"
-    },
-    "INRK|96744|20260803|CLUB": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "CLUB",
-      "price": "320.00",
-      "status": "3"
-    },
-    "INRK|96744|20260803|EXECUTIVE": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
-      "status": "3"
-    },
-    "INSL|111798|20260803|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "ROYAL ROWS",
-      "price": "370.00",
-      "status": "3"
-    },
-    "INSL|111798|20260803|PRIME ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "INSL|111798|20260803|CLASSIC ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
-    "INER|94727|20260803|Royal": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "Royal",
-      "price": "390.00",
-      "status": "3"
-    },
-    "INER|94727|20260803|Dress Circle": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "Dress Circle",
-      "price": "370.00",
-      "status": "3"
-    },
-    "INER|94727|20260803|Galleria": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "Galleria",
-      "price": "330.00",
       "status": "3"
     },
     "INER|94808|20260803|Royal": {
@@ -190,6 +46,30 @@
       "date": "20260803",
       "cat": "Galleria",
       "price": "330.00",
+      "status": "3"
+    },
+    "MCKK|48502|20260803|EXECUTIVE": {
+      "venue": "Miraj Cinemas: The Terminus, New Town",
+      "time": "11:25 PM",
+      "date": "20260803",
+      "cat": "EXECUTIVE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MCKK|48502|20260803|SPECIAL": {
+      "venue": "Miraj Cinemas: The Terminus, New Town",
+      "time": "11:25 PM",
+      "date": "20260803",
+      "cat": "SPECIAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MCKK|48502|20260803|RECLINER": {
+      "venue": "Miraj Cinemas: The Terminus, New Town",
+      "time": "11:25 PM",
+      "date": "20260803",
+      "cat": "RECLINER",
+      "price": "470.00",
       "status": "3"
     }
   },
