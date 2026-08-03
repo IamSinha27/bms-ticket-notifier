@@ -24,150 +24,6 @@
       "price": "320.00",
       "status": "3"
     },
-    "CLMK|5611|20260803|NORMAL": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "07:05 PM",
-      "date": "20260803",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CLMK|5611|20260803|EXECUTIVE": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "07:05 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CLMK|5611|20260803|PREMIUM": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "07:05 PM",
-      "date": "20260803",
-      "cat": "PREMIUM",
-      "price": "320.00",
-      "status": "3"
-    },
-    "CLMK|5606|20260803|NORMAL": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "07:35 PM",
-      "date": "20260803",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CLMK|5606|20260803|EXECUTIVE": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "07:35 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CLMK|5606|20260803|PREMIUM XL": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "07:35 PM",
-      "date": "20260803",
-      "cat": "PREMIUM XL",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CLMK|5606|20260803|PREMIUM": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "07:35 PM",
-      "date": "20260803",
-      "cat": "PREMIUM",
-      "price": "320.00",
-      "status": "3"
-    },
-    "CLMK|5606|20260803|RECLINER": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "07:35 PM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "750.00",
-      "status": "3"
-    },
-    "CLMK|5606|20260803|PREMIUM PLUS": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "07:35 PM",
-      "date": "20260803",
-      "cat": "PREMIUM PLUS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CLMK|5524|20260803|NORMAL": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "10:50 PM",
-      "date": "20260803",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CLMK|5524|20260803|EXECUTIVE": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "10:50 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CLMK|5524|20260803|PREMIUM XL": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "10:50 PM",
-      "date": "20260803",
-      "cat": "PREMIUM XL",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CLMK|5524|20260803|PREMIUM": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "10:50 PM",
-      "date": "20260803",
-      "cat": "PREMIUM",
-      "price": "320.00",
-      "status": "3"
-    },
-    "CLMK|5524|20260803|RECLINER": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "10:50 PM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "750.00",
-      "status": "3"
-    },
-    "CLMK|5524|20260803|PREMIUM PLUS": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "10:50 PM",
-      "date": "20260803",
-      "cat": "PREMIUM PLUS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CAML|5020|20260803|NORMAL": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "07:30 PM",
-      "date": "20260803",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CAML|5020|20260803|EXECUTIVE": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "07:30 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CAML|5020|20260803|PREMIUM": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "07:30 PM",
-      "date": "20260803",
-      "cat": "PREMIUM",
-      "price": "320.00",
-      "status": "3"
-    },
     "CAML|5023|20260803|NORMAL": {
       "venue": "Cinepolis: Acropolis Mall, Kolkata",
       "time": "10:40 PM",
@@ -190,54 +46,6 @@
       "date": "20260803",
       "cat": "PREMIUM",
       "price": "320.00",
-      "status": "3"
-    },
-    "MSMA|21266|20260803|RECLINER": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "06:50 PM",
-      "date": "20260803",
-      "cat": "RECLINER",
-      "price": "700.00",
-      "status": "3"
-    },
-    "MSMA|21266|20260803|PRIME": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "06:50 PM",
-      "date": "20260803",
-      "cat": "PRIME",
-      "price": "370.00",
-      "status": "3"
-    },
-    "MSMA|21266|20260803|CLASSIC": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "06:50 PM",
-      "date": "20260803",
-      "cat": "CLASSIC",
-      "price": "300.00",
-      "status": "3"
-    },
-    "INRK|96744|20260803|ROYALE": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "ROYALE",
-      "price": "550.00",
-      "status": "3"
-    },
-    "INRK|96744|20260803|CLUB": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "CLUB",
-      "price": "320.00",
-      "status": "3"
-    },
-    "INRK|96744|20260803|EXECUTIVE": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "09:55 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
       "status": "3"
     },
     "MCKK|48503|20260803|EXECUTIVE": {
@@ -286,6 +94,30 @@
       "date": "20260803",
       "cat": "RECLINER",
       "price": "470.00",
+      "status": "3"
+    },
+    "INRK|96744|20260803|ROYALE": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "09:55 PM",
+      "date": "20260803",
+      "cat": "ROYALE",
+      "price": "580.00",
+      "status": "2"
+    },
+    "INRK|96744|20260803|CLUB": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "09:55 PM",
+      "date": "20260803",
+      "cat": "CLUB",
+      "price": "320.00",
+      "status": "3"
+    },
+    "INRK|96744|20260803|EXECUTIVE": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "09:55 PM",
+      "date": "20260803",
+      "cat": "EXECUTIVE",
+      "price": "300.00",
       "status": "3"
     },
     "INSL|111798|20260803|ROYAL ROWS": {
@@ -358,110 +190,6 @@
       "date": "20260803",
       "cat": "Galleria",
       "price": "330.00",
-      "status": "3"
-    },
-    "ATCK|23364|20260803|Premium": {
-      "venue": "Atindra Cinema: Barrackpore",
-      "time": "05:30 PM",
-      "date": "20260803",
-      "cat": "Premium",
-      "price": "250.00",
-      "status": "3"
-    },
-    "ATCK|23364|20260803|Super Premium": {
-      "venue": "Atindra Cinema: Barrackpore",
-      "time": "05:30 PM",
-      "date": "20260803",
-      "cat": "Super Premium",
-      "price": "300.00",
-      "status": "2"
-    },
-    "IMKN|51721|20260803|ROYAL": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "06:50 PM",
-      "date": "20260803",
-      "cat": "ROYAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "IMKN|51721|20260803|CLUB": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "06:50 PM",
-      "date": "20260803",
-      "cat": "CLUB",
-      "price": "260.00",
-      "status": "3"
-    },
-    "IMKN|51721|20260803|EXECUTIVE": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "06:50 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "240.00",
-      "status": "3"
-    },
-    "IMJN|19164|20260803|ROYAL": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "07:25 PM",
-      "date": "20260803",
-      "cat": "ROYAL",
-      "price": "290.00",
-      "status": "3"
-    },
-    "IMJN|19164|20260803|CLUB": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "07:25 PM",
-      "date": "20260803",
-      "cat": "CLUB",
-      "price": "270.00",
-      "status": "3"
-    },
-    "IMJN|19164|20260803|EXECUTIVE": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "07:25 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
-      "status": "3"
-    },
-    "BARA|69020|20260803|SILVER": {
-      "venue": "Bioscope: Axis Mall, Rajarhat",
-      "time": "06:30 PM",
-      "date": "20260803",
-      "cat": "SILVER",
-      "price": "300.00",
-      "status": "3"
-    },
-    "BARA|69020|20260803|GOLD": {
-      "venue": "Bioscope: Axis Mall, Rajarhat",
-      "time": "06:30 PM",
-      "date": "20260803",
-      "cat": "GOLD",
-      "price": "300.00",
-      "status": "3"
-    },
-    "BARA|69020|20260803|PLATINUM": {
-      "venue": "Bioscope: Axis Mall, Rajarhat",
-      "time": "06:30 PM",
-      "date": "20260803",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "0"
-    },
-    "RTHK|4297|20260803|GOLD": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "05:15 PM",
-      "date": "20260803",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "2"
-    },
-    "RTHK|4297|20260803|EXECUTIVE": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "05:15 PM",
-      "date": "20260803",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
       "status": "3"
     }
   },
