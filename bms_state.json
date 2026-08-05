@@ -1,35 +1,11 @@
 {
   "shows": {
-    "DMPZ|25499|20260805|RECLINER": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "RECLINER",
-      "price": "560.00",
-      "status": "3"
-    },
-    "DMPZ|25499|20260805|PRIME": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "PRIME",
-      "price": "420.00",
-      "status": "2"
-    },
-    "DMPZ|25499|20260805|CLASSIC": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "CLASSIC",
-      "price": "320.00",
-      "status": "3"
-    },
     "DMPZ|25523|20260805|RECLINER": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
       "time": "10:25 PM",
       "date": "20260805",
       "cat": "RECLINER",
-      "price": "560.00",
+      "price": "620.00",
       "status": "2"
     },
     "DMPZ|25523|20260805|PRIME": {
@@ -61,7 +37,7 @@
       "time": "07:05 PM",
       "date": "20260805",
       "cat": "EXECUTIVE",
-      "price": "300.00",
+      "price": "320.00",
       "status": "3"
     },
     "CLMK|5609|20260805|PREMIUM": {
@@ -69,7 +45,7 @@
       "time": "07:05 PM",
       "date": "20260805",
       "cat": "PREMIUM",
-      "price": "320.00",
+      "price": "340.00",
       "status": "3"
     },
     "CLMK|5608|20260805|NORMAL": {
@@ -168,37 +144,13 @@
       "price": "340.00",
       "status": "3"
     },
-    "MSMA|21281|20260805|RECLINER": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "RECLINER",
-      "price": "750.00",
-      "status": "2"
-    },
-    "MSMA|21281|20260805|PRIME": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "PRIME",
-      "price": "340.00",
-      "status": "3"
-    },
-    "MSMA|21281|20260805|CLASSIC": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "CLASSIC",
-      "price": "300.00",
-      "status": "3"
-    },
     "MSMA|21282|20260805|RECLINER": {
       "venue": "PVR: Mani Square Mall, Kolkata",
       "time": "06:50 PM",
       "date": "20260805",
       "cat": "RECLINER",
       "price": "750.00",
-      "status": "2"
+      "status": "1"
     },
     "MSMA|21282|20260805|PRIME": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -213,30 +165,6 @@
       "time": "06:50 PM",
       "date": "20260805",
       "cat": "CLASSIC",
-      "price": "300.00",
-      "status": "3"
-    },
-    "INRK|96780|20260805|ROYALE": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "ROYALE",
-      "price": "550.00",
-      "status": "3"
-    },
-    "INRK|96780|20260805|CLUB": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "CLUB",
-      "price": "320.00",
-      "status": "3"
-    },
-    "INRK|96780|20260805|EXECUTIVE": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
       "price": "300.00",
       "status": "3"
     },
@@ -312,30 +240,6 @@
       "price": "470.00",
       "status": "3"
     },
-    "INSL|111810|20260805|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "ROYAL ROWS",
-      "price": "370.00",
-      "status": "3"
-    },
-    "INSL|111810|20260805|PRIME ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "PRIME ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "INSL|111810|20260805|CLASSIC ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "CLASSIC ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
     "INSL|111812|20260805|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "09:55 PM",
@@ -358,30 +262,6 @@
       "date": "20260805",
       "cat": "CLASSIC ROWS",
       "price": "280.00",
-      "status": "3"
-    },
-    "INER|94755|20260805|Royal": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "Royal",
-      "price": "390.00",
-      "status": "3"
-    },
-    "INER|94755|20260805|Dress Circle": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "Dress Circle",
-      "price": "370.00",
-      "status": "3"
-    },
-    "INER|94755|20260805|Galleria": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "03:45 PM",
-      "date": "20260805",
-      "cat": "Galleria",
-      "price": "330.00",
       "status": "3"
     },
     "INER|94757|20260805|Royal": {
@@ -519,22 +399,6 @@
       "cat": "PLATINUM",
       "price": "300.00",
       "status": "0"
-    },
-    "RTHK|4311|20260805|GOLD": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "05:15 PM",
-      "date": "20260805",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "2"
-    },
-    "RTHK|4311|20260805|EXECUTIVE": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "05:15 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
-      "status": "3"
     },
     "PCRA|19421|20260805|STALL": {
       "venue": "Priya Cinema: Rashbehari Avenue",
