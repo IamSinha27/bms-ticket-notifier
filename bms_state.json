@@ -8,14 +8,6 @@
       "price": "450.00",
       "status": "3"
     },
-    "INQM|142547|20260806|EXECUTIVE": {
-      "venue": "INOX: Quest Mall",
-      "time": "11:20 AM",
-      "date": "20260806",
-      "cat": "EXECUTIVE",
-      "price": "260.00",
-      "status": "3"
-    },
     "INQM|142547|20260806|ROYAL": {
       "venue": "INOX: Quest Mall",
       "time": "11:20 AM",
@@ -29,6 +21,14 @@
       "time": "11:20 AM",
       "date": "20260806",
       "cat": "CLUB",
+      "price": "260.00",
+      "status": "3"
+    },
+    "INQM|142547|20260806|EXECUTIVE": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:20 AM",
+      "date": "20260806",
+      "cat": "EXECUTIVE",
       "price": "260.00",
       "status": "3"
     },
@@ -544,19 +544,19 @@
       "price": "250.00",
       "status": "3"
     },
-    "INSL|111869|20260806|PRIME ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:45 AM",
-      "date": "20260806",
-      "cat": "PRIME ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
     "INSL|111869|20260806|CLASSIC ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "09:45 AM",
       "date": "20260806",
       "cat": "CLASSIC ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "INSL|111869|20260806|PRIME ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "09:45 AM",
+      "date": "20260806",
+      "cat": "PRIME ROWS",
       "price": "220.00",
       "status": "3"
     },
