@@ -30,7 +30,7 @@
       "date": "20260805",
       "cat": "RECLINER",
       "price": "560.00",
-      "status": "3"
+      "status": "2"
     },
     "DMPZ|25523|20260805|PRIME": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -120,30 +120,6 @@
       "price": "340.00",
       "status": "3"
     },
-    "CAML|5073|20260805|NORMAL": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "01:05 PM",
-      "date": "20260805",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CAML|5073|20260805|EXECUTIVE": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "01:05 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "320.00",
-      "status": "3"
-    },
-    "CAML|5073|20260805|PREMIUM": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "01:05 PM",
-      "date": "20260805",
-      "cat": "PREMIUM",
-      "price": "340.00",
-      "status": "3"
-    },
     "CAML|5075|20260805|NORMAL": {
       "venue": "Cinepolis: Acropolis Mall, Kolkata",
       "time": "07:15 PM",
@@ -197,8 +173,8 @@
       "time": "03:45 PM",
       "date": "20260805",
       "cat": "RECLINER",
-      "price": "700.00",
-      "status": "3"
+      "price": "750.00",
+      "status": "2"
     },
     "MSMA|21281|20260805|PRIME": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -221,8 +197,8 @@
       "time": "06:50 PM",
       "date": "20260805",
       "cat": "RECLINER",
-      "price": "700.00",
-      "status": "3"
+      "price": "750.00",
+      "status": "2"
     },
     "MSMA|21282|20260805|PRIME": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -288,30 +264,6 @@
       "price": "300.00",
       "status": "3"
     },
-    "MCKK|48546|20260805|EXECUTIVE": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "12:15 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MCKK|48546|20260805|SPECIAL": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "12:15 PM",
-      "date": "20260805",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MCKK|48546|20260805|RECLINER": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "12:15 PM",
-      "date": "20260805",
-      "cat": "RECLINER",
-      "price": "470.00",
-      "status": "3"
-    },
     "MCKK|48565|20260805|EXECUTIVE": {
       "venue": "Miraj Cinemas: The Terminus, New Town",
       "time": "07:35 PM",
@@ -360,30 +312,6 @@
       "price": "470.00",
       "status": "3"
     },
-    "INSL|111809|20260805|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "12:40 PM",
-      "date": "20260805",
-      "cat": "ROYAL ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "INSL|111809|20260805|PRIME ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "12:40 PM",
-      "date": "20260805",
-      "cat": "PRIME ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
-    "INSL|111809|20260805|CLASSIC ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "12:40 PM",
-      "date": "20260805",
-      "cat": "CLASSIC ROWS",
-      "price": "260.00",
-      "status": "3"
-    },
     "INSL|111810|20260805|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "03:45 PM",
@@ -430,30 +358,6 @@
       "date": "20260805",
       "cat": "CLASSIC ROWS",
       "price": "280.00",
-      "status": "3"
-    },
-    "INER|94754|20260805|Royal": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "12:40 PM",
-      "date": "20260805",
-      "cat": "Royal",
-      "price": "370.00",
-      "status": "3"
-    },
-    "INER|94754|20260805|Dress Circle": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "12:40 PM",
-      "date": "20260805",
-      "cat": "Dress Circle",
-      "price": "350.00",
-      "status": "3"
-    },
-    "INER|94754|20260805|Galleria": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "12:40 PM",
-      "date": "20260805",
-      "cat": "Galleria",
-      "price": "330.00",
       "status": "3"
     },
     "INER|94755|20260805|Royal": {
@@ -591,30 +495,6 @@
       "cat": "EXECUTIVE",
       "price": "250.00",
       "status": "3"
-    },
-    "BARA|69056|20260805|SILVER": {
-      "venue": "Bioscope: Axis Mall, Rajarhat",
-      "time": "03:50 PM",
-      "date": "20260805",
-      "cat": "SILVER",
-      "price": "300.00",
-      "status": "3"
-    },
-    "BARA|69056|20260805|GOLD": {
-      "venue": "Bioscope: Axis Mall, Rajarhat",
-      "time": "03:50 PM",
-      "date": "20260805",
-      "cat": "GOLD",
-      "price": "300.00",
-      "status": "3"
-    },
-    "BARA|69056|20260805|PLATINUM": {
-      "venue": "Bioscope: Axis Mall, Rajarhat",
-      "time": "03:50 PM",
-      "date": "20260805",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "0"
     },
     "BARA|69057|20260805|SILVER": {
       "venue": "Bioscope: Axis Mall, Rajarhat",
