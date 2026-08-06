@@ -8,6 +8,14 @@
       "price": "450.00",
       "status": "3"
     },
+    "INQM|142547|20260806|ROYAL": {
+      "venue": "INOX: Quest Mall",
+      "time": "11:20 AM",
+      "date": "20260806",
+      "cat": "ROYAL",
+      "price": "260.00",
+      "status": "3"
+    },
     "INQM|142547|20260806|CLUB": {
       "venue": "INOX: Quest Mall",
       "time": "11:20 AM",
@@ -22,38 +30,6 @@
       "date": "20260806",
       "cat": "EXECUTIVE",
       "price": "260.00",
-      "status": "3"
-    },
-    "INQM|142547|20260806|ROYAL": {
-      "venue": "INOX: Quest Mall",
-      "time": "11:20 AM",
-      "date": "20260806",
-      "cat": "ROYAL",
-      "price": "260.00",
-      "status": "3"
-    },
-    "DMPZ|25575|20260806|RECLINER": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20260806",
-      "cat": "RECLINER",
-      "price": "530.00",
-      "status": "3"
-    },
-    "DMPZ|25575|20260806|PRIME": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20260806",
-      "cat": "PRIME",
-      "price": "310.00",
-      "status": "3"
-    },
-    "DMPZ|25575|20260806|CLASSIC": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20260806",
-      "cat": "CLASSIC",
-      "price": "240.00",
       "status": "3"
     },
     "DMPZ|25542|20260806|RECLINER": {
