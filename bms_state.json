@@ -272,30 +272,6 @@
       "price": "350.00",
       "status": "3"
     },
-    "INSL|111942|20260807|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "11:00 AM",
-      "date": "20260807",
-      "cat": "ROYAL ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
-    "INSL|111942|20260807|CLASSIC ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "11:00 AM",
-      "date": "20260807",
-      "cat": "CLASSIC ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "INSL|111942|20260807|PRIME ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "11:00 AM",
-      "date": "20260807",
-      "cat": "PRIME ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
     "INSL|111916|20260807|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "12:40 PM",
@@ -414,54 +390,6 @@
       "date": "20260807",
       "cat": "Galleria",
       "price": "410.00",
-      "status": "3"
-    },
-    "PCRA|19438|20260807|STALL": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:05 PM",
-      "date": "20260807",
-      "cat": "STALL",
-      "price": "105.00",
-      "status": "3"
-    },
-    "PCRA|19438|20260807|REAR": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:05 PM",
-      "date": "20260807",
-      "cat": "REAR",
-      "price": "160.00",
-      "status": "3"
-    },
-    "PCRA|19438|20260807|BOX": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:05 PM",
-      "date": "20260807",
-      "cat": "BOX",
-      "price": "250.00",
-      "status": "2"
-    },
-    "PCRA|19438|20260807|RECLINERS": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:05 PM",
-      "date": "20260807",
-      "cat": "RECLINERS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "PCRA|19438|20260807|CLASSIC": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:05 PM",
-      "date": "20260807",
-      "cat": "CLASSIC",
-      "price": "250.00",
-      "status": "3"
-    },
-    "PCRA|19438|20260807|BALCONY": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:05 PM",
-      "date": "20260807",
-      "cat": "BALCONY",
-      "price": "220.00",
       "status": "3"
     },
     "PCRA|19441|20260807|STALL": {
