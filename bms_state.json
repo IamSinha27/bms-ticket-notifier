@@ -15,54 +15,6 @@
       "cat": "EXECUTIVE",
       "price": "360.00",
       "status": "3"
-    },
-    "IMKN|51874|20260807|ROYAL": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "10:35 PM",
-      "date": "20260807",
-      "cat": "ROYAL",
-      "price": "350.00",
-      "status": "3"
-    },
-    "IMKN|51874|20260807|CLUB": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "10:35 PM",
-      "date": "20260807",
-      "cat": "CLUB",
-      "price": "330.00",
-      "status": "3"
-    },
-    "IMKN|51874|20260807|EXECUTIVE": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "10:35 PM",
-      "date": "20260807",
-      "cat": "EXECUTIVE",
-      "price": "310.00",
-      "status": "3"
-    },
-    "RDBK|27143|20260807|PLAT": {
-      "venue": "RDB Cinemas: Salt Lake, Kolkata",
-      "time": "11:00 PM",
-      "date": "20260807",
-      "cat": "PLAT",
-      "price": "240.00",
-      "status": "3"
-    },
-    "RDBK|27143|20260807|GOLD": {
-      "venue": "RDB Cinemas: Salt Lake, Kolkata",
-      "time": "11:00 PM",
-      "date": "20260807",
-      "cat": "GOLD",
-      "price": "240.00",
-      "status": "3"
-    },
-    "RDBK|27143|20260807|PLATINUM PLUS": {
-      "venue": "RDB Cinemas: Salt Lake, Kolkata",
-      "time": "11:00 PM",
-      "date": "20260807",
-      "cat": "PLATINUM PLUS",
-      "price": "310.00",
-      "status": "3"
     }
   },
   "dates": {
