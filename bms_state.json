@@ -13,7 +13,7 @@
       "time": "09:55 PM",
       "date": "20260807",
       "cat": "PRIME",
-      "price": "430.00",
+      "price": "470.00",
       "status": "3"
     },
     "DMPZ|25619|20260807|CLASSIC": {
@@ -101,8 +101,8 @@
       "time": "06:50 PM",
       "date": "20260807",
       "cat": "RECLINER",
-      "price": "780.00",
-      "status": "2"
+      "price": "820.00",
+      "status": "1"
     },
     "MSMA|21376|20260807|PRIME": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -382,22 +382,6 @@
       "date": "20260807",
       "cat": "EXECUTIVE",
       "price": "290.00",
-      "status": "3"
-    },
-    "RTHK|4364|20260807|GOLD": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "05:20 PM",
-      "date": "20260807",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "3"
-    },
-    "RTHK|4364|20260807|EXECUTIVE": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "05:20 PM",
-      "date": "20260807",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
       "status": "3"
     },
     "RTHK|4365|20260807|GOLD": {
