@@ -216,6 +216,102 @@
       "price": "310.00",
       "status": "3"
     },
+    "MSMA|21389|20260809|RECLINER": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "09:35 AM",
+      "date": "20260809",
+      "cat": "RECLINER",
+      "price": "610.00",
+      "status": "3"
+    },
+    "MSMA|21389|20260809|PRIME": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "09:35 AM",
+      "date": "20260809",
+      "cat": "PRIME",
+      "price": "290.00",
+      "status": "3"
+    },
+    "MSMA|21389|20260809|CLASSIC": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "09:35 AM",
+      "date": "20260809",
+      "cat": "CLASSIC",
+      "price": "260.00",
+      "status": "3"
+    },
+    "MSMA|21391|20260809|RECLINER": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "03:45 PM",
+      "date": "20260809",
+      "cat": "RECLINER",
+      "price": "820.00",
+      "status": "2"
+    },
+    "MSMA|21391|20260809|PRIME": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "03:45 PM",
+      "date": "20260809",
+      "cat": "PRIME",
+      "price": "460.00",
+      "status": "2"
+    },
+    "MSMA|21391|20260809|CLASSIC": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "03:45 PM",
+      "date": "20260809",
+      "cat": "CLASSIC",
+      "price": "360.00",
+      "status": "3"
+    },
+    "MSMA|21392|20260809|RECLINER": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "06:50 PM",
+      "date": "20260809",
+      "cat": "RECLINER",
+      "price": "820.00",
+      "status": "1"
+    },
+    "MSMA|21392|20260809|PRIME": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "06:50 PM",
+      "date": "20260809",
+      "cat": "PRIME",
+      "price": "430.00",
+      "status": "3"
+    },
+    "MSMA|21392|20260809|CLASSIC": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "06:50 PM",
+      "date": "20260809",
+      "cat": "CLASSIC",
+      "price": "360.00",
+      "status": "3"
+    },
+    "MSMA|21393|20260809|RECLINER": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "09:55 PM",
+      "date": "20260809",
+      "cat": "RECLINER",
+      "price": "750.00",
+      "status": "3"
+    },
+    "MSMA|21393|20260809|PRIME": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "09:55 PM",
+      "date": "20260809",
+      "cat": "PRIME",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MSMA|21393|20260809|CLASSIC": {
+      "venue": "PVR: Mani Square Mall, Kolkata",
+      "time": "09:55 PM",
+      "date": "20260809",
+      "cat": "CLASSIC",
+      "price": "360.00",
+      "status": "3"
+    },
     "INRK|96887|20260809|CLUB": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:05 AM",
@@ -326,6 +422,102 @@
       "date": "20260809",
       "cat": "Super Premium",
       "price": "350.00",
+      "status": "3"
+    },
+    "INSL|111944|20260809|ROYAL ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "11:00 AM",
+      "date": "20260809",
+      "cat": "ROYAL ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "INSL|111944|20260809|CLASSIC ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "11:00 AM",
+      "date": "20260809",
+      "cat": "CLASSIC ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "INSL|111944|20260809|PRIME ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "11:00 AM",
+      "date": "20260809",
+      "cat": "PRIME ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "INSL|111926|20260809|ROYAL ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "12:40 PM",
+      "date": "20260809",
+      "cat": "ROYAL ROWS",
+      "price": "430.00",
+      "status": "2"
+    },
+    "INSL|111926|20260809|PRIME ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "12:40 PM",
+      "date": "20260809",
+      "cat": "PRIME ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "INSL|111926|20260809|CLASSIC ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "12:40 PM",
+      "date": "20260809",
+      "cat": "CLASSIC ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "INSL|111927|20260809|ROYAL ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "03:45 PM",
+      "date": "20260809",
+      "cat": "ROYAL ROWS",
+      "price": "460.00",
+      "status": "2"
+    },
+    "INSL|111927|20260809|PRIME ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "03:45 PM",
+      "date": "20260809",
+      "cat": "PRIME ROWS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "INSL|111927|20260809|CLASSIC ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "03:45 PM",
+      "date": "20260809",
+      "cat": "CLASSIC ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "INSL|111929|20260809|ROYAL ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "09:55 PM",
+      "date": "20260809",
+      "cat": "ROYAL ROWS",
+      "price": "410.00",
+      "status": "3"
+    },
+    "INSL|111929|20260809|PRIME ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "09:55 PM",
+      "date": "20260809",
+      "cat": "PRIME ROWS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "INSL|111929|20260809|CLASSIC ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "09:55 PM",
+      "date": "20260809",
+      "cat": "CLASSIC ROWS",
+      "price": "320.00",
       "status": "3"
     },
     "INER|94881|20260809|Royal": {
