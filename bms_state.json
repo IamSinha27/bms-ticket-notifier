@@ -1,29 +1,5 @@
 {
   "shows": {
-    "DMPZ|25632|20260808|RECLINER": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "RECLINER",
-      "price": "700.00",
-      "status": "2"
-    },
-    "DMPZ|25632|20260808|PRIME": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "PRIME",
-      "price": "510.00",
-      "status": "1"
-    },
-    "DMPZ|25632|20260808|CLASSIC": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "CLASSIC",
-      "price": "420.00",
-      "status": "3"
-    },
     "DMPZ|25634|20260808|RECLINER": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
       "time": "09:55 PM",
@@ -120,37 +96,13 @@
       "price": "310.00",
       "status": "3"
     },
-    "MSMA|21386|20260808|RECLINER": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "RECLINER",
-      "price": "820.00",
-      "status": "0"
-    },
-    "MSMA|21386|20260808|PRIME": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "PRIME",
-      "price": "460.00",
-      "status": "2"
-    },
-    "MSMA|21386|20260808|CLASSIC": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "CLASSIC",
-      "price": "360.00",
-      "status": "3"
-    },
     "MSMA|21387|20260808|RECLINER": {
       "venue": "PVR: Mani Square Mall, Kolkata",
       "time": "06:50 PM",
       "date": "20260808",
       "cat": "RECLINER",
       "price": "820.00",
-      "status": "2"
+      "status": "1"
     },
     "MSMA|21387|20260808|PRIME": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -189,30 +141,6 @@
       "time": "09:55 PM",
       "date": "20260808",
       "cat": "CLASSIC",
-      "price": "360.00",
-      "status": "3"
-    },
-    "INRK|96874|20260808|ROYALE": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "ROYALE",
-      "price": "670.00",
-      "status": "2"
-    },
-    "INRK|96874|20260808|CLUB": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "CLUB",
-      "price": "420.00",
-      "status": "3"
-    },
-    "INRK|96874|20260808|EXECUTIVE": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
       "price": "360.00",
       "status": "3"
     },
@@ -272,30 +200,6 @@
       "price": "350.00",
       "status": "3"
     },
-    "INSL|111922|20260808|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "ROYAL ROWS",
-      "price": "510.00",
-      "status": "2"
-    },
-    "INSL|111922|20260808|PRIME ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "PRIME ROWS",
-      "price": "430.00",
-      "status": "3"
-    },
-    "INSL|111922|20260808|CLASSIC ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "CLASSIC ROWS",
-      "price": "320.00",
-      "status": "3"
-    },
     "INSL|111924|20260808|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "09:55 PM",
@@ -318,30 +222,6 @@
       "date": "20260808",
       "cat": "CLASSIC ROWS",
       "price": "320.00",
-      "status": "3"
-    },
-    "INER|94862|20260808|Royal": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "2"
-    },
-    "INER|94862|20260808|Dress Circle": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "Dress Circle",
-      "price": "340.00",
-      "status": "3"
-    },
-    "INER|94862|20260808|Galleria": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "Galleria",
-      "price": "280.00",
       "status": "3"
     },
     "INER|94864|20260808|Royal": {
@@ -398,7 +278,7 @@
       "date": "20260808",
       "cat": "RECLINERS",
       "price": "400.00",
-      "status": "3"
+      "status": "1"
     },
     "PCRA|19445|20260808|CLASSIC": {
       "venue": "Priya Cinema: Rashbehari Avenue",
@@ -421,8 +301,8 @@
       "time": "06:50 PM",
       "date": "20260808",
       "cat": "ROYAL",
-      "price": "370.00",
-      "status": "3"
+      "price": "390.00",
+      "status": "2"
     },
     "IMKN|51857|20260808|CLUB": {
       "venue": "INOX: Star Mall, Madhyamgram",
@@ -464,22 +344,6 @@
       "price": "310.00",
       "status": "3"
     },
-    "PVAK|19461|20260808|PRIME PLUS SOFA ROWS": {
-      "venue": "PVR: Avani, Kolkata",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "PRIME PLUS SOFA ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "PVAK|19461|20260808|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Avani, Kolkata",
-      "time": "03:45 PM",
-      "date": "20260808",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
     "PVAK|19463|20260808|PRIME PLUS SOFA ROWS": {
       "venue": "PVR: Avani, Kolkata",
       "time": "09:55 PM",
@@ -519,22 +383,6 @@
       "cat": "EXECUTIVE",
       "price": "290.00",
       "status": "3"
-    },
-    "RTHK|4369|20260808|GOLD": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "05:20 PM",
-      "date": "20260808",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "2"
-    },
-    "RTHK|4369|20260808|EXECUTIVE": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "05:20 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
-      "status": "2"
     },
     "RTHK|4370|20260808|GOLD": {
       "venue": "Rathindra Multiplex: Sodepur",
