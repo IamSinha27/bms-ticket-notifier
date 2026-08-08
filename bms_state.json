@@ -5,8 +5,8 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "RECLINER",
-      "price": "660.00",
-      "status": "3"
+      "price": "700.00",
+      "status": "2"
     },
     "DMPZ|25632|20260808|PRIME": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -30,7 +30,7 @@
       "date": "20260808",
       "cat": "RECLINER",
       "price": "660.00",
-      "status": "2"
+      "status": "3"
     },
     "DMPZ|25634|20260808|PRIME": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -278,7 +278,7 @@
       "date": "20260808",
       "cat": "ROYAL ROWS",
       "price": "430.00",
-      "status": "2"
+      "status": "3"
     },
     "INSL|111921|20260808|PRIME ROWS": {
       "venue": "INOX: City Center, Salt Lake",
@@ -301,7 +301,7 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "ROYAL ROWS",
-      "price": "410.00",
+      "price": "460.00",
       "status": "2"
     },
     "INSL|111922|20260808|PRIME ROWS": {
@@ -606,7 +606,7 @@
       "date": "20260808",
       "cat": "EXECUTIVE",
       "price": "250.00",
-      "status": "2"
+      "status": "3"
     },
     "RTHK|4370|20260808|GOLD": {
       "venue": "Rathindra Multiplex: Sodepur",
