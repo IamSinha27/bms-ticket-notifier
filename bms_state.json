@@ -96,30 +96,6 @@
       "price": "310.00",
       "status": "3"
     },
-    "MSMA|21387|20260808|RECLINER": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "06:50 PM",
-      "date": "20260808",
-      "cat": "RECLINER",
-      "price": "820.00",
-      "status": "1"
-    },
-    "MSMA|21387|20260808|PRIME": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "06:50 PM",
-      "date": "20260808",
-      "cat": "PRIME",
-      "price": "460.00",
-      "status": "2"
-    },
-    "MSMA|21387|20260808|CLASSIC": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "06:50 PM",
-      "date": "20260808",
-      "cat": "CLASSIC",
-      "price": "360.00",
-      "status": "3"
-    },
     "MSMA|21388|20260808|RECLINER": {
       "venue": "PVR: Mani Square Mall, Kolkata",
       "time": "09:55 PM",
@@ -296,30 +272,6 @@
       "price": "220.00",
       "status": "3"
     },
-    "IMKN|51857|20260808|ROYAL": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "06:50 PM",
-      "date": "20260808",
-      "cat": "ROYAL",
-      "price": "390.00",
-      "status": "2"
-    },
-    "IMKN|51857|20260808|CLUB": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "06:50 PM",
-      "date": "20260808",
-      "cat": "CLUB",
-      "price": "330.00",
-      "status": "3"
-    },
-    "IMKN|51857|20260808|EXECUTIVE": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "06:50 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
-      "price": "310.00",
-      "status": "3"
-    },
     "IMKN|51875|20260808|ROYAL": {
       "venue": "INOX: Star Mall, Madhyamgram",
       "time": "10:35 PM",
@@ -390,7 +342,7 @@
       "date": "20260808",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "RTHK|4370|20260808|EXECUTIVE": {
       "venue": "Rathindra Multiplex: Sodepur",
