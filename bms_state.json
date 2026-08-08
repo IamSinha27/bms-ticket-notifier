@@ -21,7 +21,7 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "CLASSIC",
-      "price": "380.00",
+      "price": "420.00",
       "status": "3"
     },
     "DMPZ|25634|20260808|RECLINER": {
@@ -133,8 +133,8 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "PRIME",
-      "price": "430.00",
-      "status": "3"
+      "price": "460.00",
+      "status": "2"
     },
     "MSMA|21386|20260808|CLASSIC": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -157,7 +157,7 @@
       "time": "06:50 PM",
       "date": "20260808",
       "cat": "PRIME",
-      "price": "430.00",
+      "price": "460.00",
       "status": "2"
     },
     "MSMA|21387|20260808|CLASSIC": {
@@ -198,7 +198,7 @@
       "date": "20260808",
       "cat": "ROYALE",
       "price": "670.00",
-      "status": "1"
+      "status": "2"
     },
     "INRK|96874|20260808|CLUB": {
       "venue": "INOX: City Centre II, Rajarhat",
@@ -277,8 +277,8 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "ROYAL ROWS",
-      "price": "460.00",
-      "status": "3"
+      "price": "510.00",
+      "status": "2"
     },
     "INSL|111922|20260808|PRIME ROWS": {
       "venue": "INOX: City Center, Salt Lake",
@@ -325,15 +325,15 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "Royal",
-      "price": "380.00",
-      "status": "3"
+      "price": "400.00",
+      "status": "2"
     },
     "INER|94862|20260808|Dress Circle": {
       "venue": "INOX: Forum Mall, Elgin Road",
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "Dress Circle",
-      "price": "320.00",
+      "price": "340.00",
       "status": "3"
     },
     "INER|94862|20260808|Galleria": {
@@ -557,9 +557,9 @@
     "20260808": "BOOKABLE",
     "20260809": "AVAILABLE",
     "20260810": "AVAILABLE",
+    "20260811": "AVAILABLE",
     "20260812": "AVAILABLE",
-    "20260813": "NOT_OPEN",
-    "20260814": "NOT_OPEN",
-    "20260815": "NOT_OPEN"
+    "20260813": "AVAILABLE",
+    "20260814": "NOT_OPEN"
   }
 }
