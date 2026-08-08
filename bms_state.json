@@ -6,7 +6,7 @@
       "date": "20260808",
       "cat": "RECLINER",
       "price": "700.00",
-      "status": "1"
+      "status": "2"
     },
     "DMPZ|25632|20260808|PRIME": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -126,7 +126,7 @@
       "date": "20260808",
       "cat": "RECLINER",
       "price": "820.00",
-      "status": "1"
+      "status": "0"
     },
     "MSMA|21386|20260808|PRIME": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -134,7 +134,7 @@
       "date": "20260808",
       "cat": "PRIME",
       "price": "430.00",
-      "status": "2"
+      "status": "3"
     },
     "MSMA|21386|20260808|CLASSIC": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -158,7 +158,7 @@
       "date": "20260808",
       "cat": "PRIME",
       "price": "430.00",
-      "status": "3"
+      "status": "2"
     },
     "MSMA|21387|20260808|CLASSIC": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -278,14 +278,14 @@
       "date": "20260808",
       "cat": "ROYAL ROWS",
       "price": "460.00",
-      "status": "2"
+      "status": "3"
     },
     "INSL|111922|20260808|PRIME ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "PRIME ROWS",
-      "price": "380.00",
+      "price": "430.00",
       "status": "3"
     },
     "INSL|111922|20260808|CLASSIC ROWS": {
@@ -325,7 +325,7 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "Royal",
-      "price": "360.00",
+      "price": "380.00",
       "status": "3"
     },
     "INER|94862|20260808|Dress Circle": {
@@ -421,7 +421,7 @@
       "time": "06:50 PM",
       "date": "20260808",
       "cat": "ROYAL",
-      "price": "350.00",
+      "price": "370.00",
       "status": "3"
     },
     "IMKN|51857|20260808|CLUB": {
@@ -496,30 +496,6 @@
       "price": "350.00",
       "status": "3"
     },
-    "IMJN|19231|20260808|ROYAL": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "01:15 PM",
-      "date": "20260808",
-      "cat": "ROYAL",
-      "price": "350.00",
-      "status": "3"
-    },
-    "IMJN|19231|20260808|CLUB": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "01:15 PM",
-      "date": "20260808",
-      "cat": "CLUB",
-      "price": "320.00",
-      "status": "3"
-    },
-    "IMJN|19231|20260808|EXECUTIVE": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "01:15 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
-      "price": "270.00",
-      "status": "3"
-    },
     "IMJN|19233|20260808|ROYAL": {
       "venue": "INOX: Metro, Jawaharlal Nehru Road",
       "time": "07:25 PM",
@@ -558,7 +534,7 @@
       "date": "20260808",
       "cat": "EXECUTIVE",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
     "RTHK|4370|20260808|GOLD": {
       "venue": "Rathindra Multiplex: Sodepur",
