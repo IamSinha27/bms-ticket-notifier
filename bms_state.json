@@ -525,7 +525,7 @@
       "time": "12:35 PM",
       "date": "20260808",
       "cat": "Royal",
-      "price": "450.00",
+      "price": "360.00",
       "status": "3"
     },
     "INER|94880|20260808|Dress Circle": {
@@ -533,7 +533,7 @@
       "time": "12:35 PM",
       "date": "20260808",
       "cat": "Dress Circle",
-      "price": "430.00",
+      "price": "320.00",
       "status": "3"
     },
     "INER|94880|20260808|Galleria": {
@@ -541,7 +541,7 @@
       "time": "12:35 PM",
       "date": "20260808",
       "cat": "Galleria",
-      "price": "410.00",
+      "price": "280.00",
       "status": "3"
     },
     "INER|94862|20260808|Royal": {
@@ -549,7 +549,7 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "Royal",
-      "price": "470.00",
+      "price": "360.00",
       "status": "3"
     },
     "INER|94862|20260808|Dress Circle": {
@@ -557,7 +557,7 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "Dress Circle",
-      "price": "450.00",
+      "price": "320.00",
       "status": "3"
     },
     "INER|94862|20260808|Galleria": {
@@ -565,7 +565,7 @@
       "time": "03:45 PM",
       "date": "20260808",
       "cat": "Galleria",
-      "price": "410.00",
+      "price": "280.00",
       "status": "3"
     },
     "INER|94864|20260808|Royal": {
@@ -573,7 +573,7 @@
       "time": "09:55 PM",
       "date": "20260808",
       "cat": "Royal",
-      "price": "470.00",
+      "price": "360.00",
       "status": "3"
     },
     "INER|94864|20260808|Dress Circle": {
@@ -581,7 +581,7 @@
       "time": "09:55 PM",
       "date": "20260808",
       "cat": "Dress Circle",
-      "price": "450.00",
+      "price": "320.00",
       "status": "3"
     },
     "INER|94864|20260808|Galleria": {
@@ -589,7 +589,7 @@
       "time": "09:55 PM",
       "date": "20260808",
       "cat": "Galleria",
-      "price": "410.00",
+      "price": "280.00",
       "status": "3"
     },
     "PCRA|19442|20260808|STALL": {
