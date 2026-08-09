@@ -448,14 +448,6 @@
       "price": "300.00",
       "status": "3"
     },
-    "INSL|111956|20260810|CLASSIC ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "11:00 AM",
-      "date": "20260810",
-      "cat": "CLASSIC ROWS",
-      "price": "200.00",
-      "status": "3"
-    },
     "INSL|111956|20260810|PRIME ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "11:00 AM",
@@ -472,6 +464,22 @@
       "price": "200.00",
       "status": "3"
     },
+    "INSL|111956|20260810|CLASSIC ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "11:00 AM",
+      "date": "20260810",
+      "cat": "CLASSIC ROWS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "INSL|111957|20260810|CLASSIC ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "12:40 PM",
+      "date": "20260810",
+      "cat": "CLASSIC ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
     "INSL|111957|20260810|PRIME ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "12:40 PM",
@@ -483,22 +491,6 @@
     "INSL|111957|20260810|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "12:40 PM",
-      "date": "20260810",
-      "cat": "ROYAL ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "INSL|111957|20260810|CLASSIC ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "12:40 PM",
-      "date": "20260810",
-      "cat": "CLASSIC ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "INSL|111958|20260810|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "03:45 PM",
       "date": "20260810",
       "cat": "ROYAL ROWS",
       "price": "220.00",
@@ -520,9 +512,9 @@
       "price": "220.00",
       "status": "3"
     },
-    "INSL|111959|20260810|ROYAL ROWS": {
+    "INSL|111958|20260810|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
-      "time": "09:55 PM",
+      "time": "03:45 PM",
       "date": "20260810",
       "cat": "ROYAL ROWS",
       "price": "220.00",
@@ -541,6 +533,14 @@
       "time": "09:55 PM",
       "date": "20260810",
       "cat": "PRIME ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "INSL|111959|20260810|ROYAL ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "09:55 PM",
+      "date": "20260810",
+      "cat": "ROYAL ROWS",
       "price": "220.00",
       "status": "3"
     },
