@@ -856,14 +856,6 @@
       "price": "210.00",
       "status": "3"
     },
-    "IMJN|19247|20260810|EXECUTIVE": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "07:25 PM",
-      "date": "20260810",
-      "cat": "EXECUTIVE",
-      "price": "220.00",
-      "status": "3"
-    },
     "IMJN|19247|20260810|ROYAL": {
       "venue": "INOX: Metro, Jawaharlal Nehru Road",
       "time": "07:25 PM",
@@ -877,6 +869,14 @@
       "time": "07:25 PM",
       "date": "20260810",
       "cat": "CLUB",
+      "price": "220.00",
+      "status": "3"
+    },
+    "IMJN|19247|20260810|EXECUTIVE": {
+      "venue": "INOX: Metro, Jawaharlal Nehru Road",
+      "time": "07:25 PM",
+      "date": "20260810",
+      "cat": "EXECUTIVE",
       "price": "220.00",
       "status": "3"
     },
