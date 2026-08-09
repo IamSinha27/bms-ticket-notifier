@@ -21,7 +21,7 @@
       "time": "03:45 PM",
       "date": "20260809",
       "cat": "CLASSIC",
-      "price": "380.00",
+      "price": "420.00",
       "status": "3"
     },
     "DMPZ|25639|20260809|RECLINER": {
@@ -126,7 +126,7 @@
       "date": "20260809",
       "cat": "RECLINER",
       "price": "820.00",
-      "status": "2"
+      "status": "1"
     },
     "MSMA|21391|20260809|PRIME": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -150,14 +150,14 @@
       "date": "20260809",
       "cat": "RECLINER",
       "price": "820.00",
-      "status": "1"
+      "status": "0"
     },
     "MSMA|21392|20260809|PRIME": {
       "venue": "PVR: Mani Square Mall, Kolkata",
       "time": "06:50 PM",
       "date": "20260809",
       "cat": "PRIME",
-      "price": "430.00",
+      "price": "460.00",
       "status": "2"
     },
     "MSMA|21392|20260809|CLASSIC": {
@@ -272,30 +272,6 @@
       "price": "350.00",
       "status": "3"
     },
-    "INSL|111926|20260809|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "12:40 PM",
-      "date": "20260809",
-      "cat": "ROYAL ROWS",
-      "price": "480.00",
-      "status": "2"
-    },
-    "INSL|111926|20260809|PRIME ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "12:40 PM",
-      "date": "20260809",
-      "cat": "PRIME ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "INSL|111926|20260809|CLASSIC ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "12:40 PM",
-      "date": "20260809",
-      "cat": "CLASSIC ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
     "INSL|111927|20260809|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "03:45 PM",
@@ -309,8 +285,8 @@
       "time": "03:45 PM",
       "date": "20260809",
       "cat": "PRIME ROWS",
-      "price": "430.00",
-      "status": "3"
+      "price": "480.00",
+      "status": "2"
     },
     "INSL|111927|20260809|CLASSIC ROWS": {
       "venue": "INOX: City Center, Salt Lake",
@@ -344,45 +320,21 @@
       "price": "320.00",
       "status": "3"
     },
-    "INER|94881|20260809|Royal": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "12:35 PM",
-      "date": "20260809",
-      "cat": "Royal",
-      "price": "360.00",
-      "status": "3"
-    },
-    "INER|94881|20260809|Dress Circle": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "12:35 PM",
-      "date": "20260809",
-      "cat": "Dress Circle",
-      "price": "320.00",
-      "status": "3"
-    },
-    "INER|94881|20260809|Galleria": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "12:35 PM",
-      "date": "20260809",
-      "cat": "Galleria",
-      "price": "280.00",
-      "status": "3"
-    },
     "INER|94867|20260809|Royal": {
       "venue": "INOX: Forum Mall, Elgin Road",
       "time": "03:45 PM",
       "date": "20260809",
       "cat": "Royal",
       "price": "400.00",
-      "status": "2"
+      "status": "1"
     },
     "INER|94867|20260809|Dress Circle": {
       "venue": "INOX: Forum Mall, Elgin Road",
       "time": "03:45 PM",
       "date": "20260809",
       "cat": "Dress Circle",
-      "price": "340.00",
-      "status": "3"
+      "price": "360.00",
+      "status": "2"
     },
     "INER|94867|20260809|Galleria": {
       "venue": "INOX: Forum Mall, Elgin Road",
@@ -414,54 +366,6 @@
       "date": "20260809",
       "cat": "Galleria",
       "price": "280.00",
-      "status": "3"
-    },
-    "PCRA|19446|20260809|STALL": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:35 PM",
-      "date": "20260809",
-      "cat": "STALL",
-      "price": "105.00",
-      "status": "3"
-    },
-    "PCRA|19446|20260809|REAR": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:35 PM",
-      "date": "20260809",
-      "cat": "REAR",
-      "price": "160.00",
-      "status": "3"
-    },
-    "PCRA|19446|20260809|BOX": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:35 PM",
-      "date": "20260809",
-      "cat": "BOX",
-      "price": "250.00",
-      "status": "2"
-    },
-    "PCRA|19446|20260809|RECLINERS": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:35 PM",
-      "date": "20260809",
-      "cat": "RECLINERS",
-      "price": "400.00",
-      "status": "2"
-    },
-    "PCRA|19446|20260809|CLASSIC": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:35 PM",
-      "date": "20260809",
-      "cat": "CLASSIC",
-      "price": "250.00",
-      "status": "3"
-    },
-    "PCRA|19446|20260809|BALCONY": {
-      "venue": "Priya Cinema: Rashbehari Avenue",
-      "time": "12:35 PM",
-      "date": "20260809",
-      "cat": "BALCONY",
-      "price": "220.00",
       "status": "3"
     },
     "PCRA|19449|20260809|STALL": {
@@ -517,7 +421,7 @@
       "time": "06:50 PM",
       "date": "20260809",
       "cat": "ROYAL",
-      "price": "350.00",
+      "price": "370.00",
       "status": "3"
     },
     "IMKN|51862|20260809|CLUB": {
@@ -565,8 +469,8 @@
       "time": "03:45 PM",
       "date": "20260809",
       "cat": "PRIME PLUS SOFA ROWS",
-      "price": "500.00",
-      "status": "3"
+      "price": "540.00",
+      "status": "2"
     },
     "PVAK|19466|20260809|CLASSIC PLUS ROWS": {
       "venue": "PVR: Avani, Kolkata",
@@ -590,30 +494,6 @@
       "date": "20260809",
       "cat": "CLASSIC PLUS ROWS",
       "price": "350.00",
-      "status": "3"
-    },
-    "IMJN|19236|20260809|ROYAL": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "01:15 PM",
-      "date": "20260809",
-      "cat": "ROYAL",
-      "price": "350.00",
-      "status": "3"
-    },
-    "IMJN|19236|20260809|CLUB": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "01:15 PM",
-      "date": "20260809",
-      "cat": "CLUB",
-      "price": "320.00",
-      "status": "3"
-    },
-    "IMJN|19236|20260809|EXECUTIVE": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "01:15 PM",
-      "date": "20260809",
-      "cat": "EXECUTIVE",
-      "price": "270.00",
       "status": "3"
     },
     "IMJN|19238|20260809|ROYAL": {
