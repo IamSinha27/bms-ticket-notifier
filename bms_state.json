@@ -430,7 +430,7 @@
       "date": "20260809",
       "cat": "ROYAL ROWS",
       "price": "280.00",
-      "status": "3"
+      "status": "2"
     },
     "INSL|111944|20260809|CLASSIC ROWS": {
       "venue": "INOX: City Center, Salt Lake",
@@ -760,6 +760,54 @@
       "price": "310.00",
       "status": "3"
     },
+    "PVAK|19464|20260809|PRIME PLUS SOFA ROWS": {
+      "venue": "PVR: Avani, Kolkata",
+      "time": "09:35 AM",
+      "date": "20260809",
+      "cat": "PRIME PLUS SOFA ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PVAK|19464|20260809|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Avani, Kolkata",
+      "time": "09:35 AM",
+      "date": "20260809",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "PVAK|19466|20260809|PRIME PLUS SOFA ROWS": {
+      "venue": "PVR: Avani, Kolkata",
+      "time": "03:45 PM",
+      "date": "20260809",
+      "cat": "PRIME PLUS SOFA ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PVAK|19466|20260809|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Avani, Kolkata",
+      "time": "03:45 PM",
+      "date": "20260809",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PVAK|19468|20260809|PRIME PLUS SOFA ROWS": {
+      "venue": "PVR: Avani, Kolkata",
+      "time": "09:55 PM",
+      "date": "20260809",
+      "cat": "PRIME PLUS SOFA ROWS",
+      "price": "460.00",
+      "status": "3"
+    },
+    "PVAK|19468|20260809|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Avani, Kolkata",
+      "time": "09:55 PM",
+      "date": "20260809",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
     "IMJN|19236|20260809|ROYAL": {
       "venue": "INOX: Metro, Jawaharlal Nehru Road",
       "time": "01:15 PM",
@@ -773,7 +821,7 @@
       "time": "01:15 PM",
       "date": "20260809",
       "cat": "CLUB",
-      "price": "280.00",
+      "price": "320.00",
       "status": "3"
     },
     "IMJN|19236|20260809|EXECUTIVE": {
