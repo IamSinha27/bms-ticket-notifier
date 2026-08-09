@@ -448,14 +448,6 @@
       "price": "300.00",
       "status": "3"
     },
-    "INSL|111956|20260810|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "11:00 AM",
-      "date": "20260810",
-      "cat": "ROYAL ROWS",
-      "price": "200.00",
-      "status": "3"
-    },
     "INSL|111956|20260810|CLASSIC ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "11:00 AM",
@@ -472,12 +464,12 @@
       "price": "200.00",
       "status": "3"
     },
-    "INSL|111957|20260810|CLASSIC ROWS": {
+    "INSL|111956|20260810|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
-      "time": "12:40 PM",
+      "time": "11:00 AM",
       "date": "20260810",
-      "cat": "CLASSIC ROWS",
-      "price": "220.00",
+      "cat": "ROYAL ROWS",
+      "price": "200.00",
       "status": "3"
     },
     "INSL|111957|20260810|PRIME ROWS": {
@@ -491,6 +483,22 @@
     "INSL|111957|20260810|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "12:40 PM",
+      "date": "20260810",
+      "cat": "ROYAL ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "INSL|111957|20260810|CLASSIC ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "12:40 PM",
+      "date": "20260810",
+      "cat": "CLASSIC ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "INSL|111958|20260810|ROYAL ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "03:45 PM",
       "date": "20260810",
       "cat": "ROYAL ROWS",
       "price": "220.00",
@@ -512,9 +520,9 @@
       "price": "220.00",
       "status": "3"
     },
-    "INSL|111958|20260810|ROYAL ROWS": {
+    "INSL|111959|20260810|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
-      "time": "03:45 PM",
+      "time": "09:55 PM",
       "date": "20260810",
       "cat": "ROYAL ROWS",
       "price": "220.00",
@@ -533,14 +541,6 @@
       "time": "09:55 PM",
       "date": "20260810",
       "cat": "PRIME ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "INSL|111959|20260810|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:55 PM",
-      "date": "20260810",
-      "cat": "ROYAL ROWS",
       "price": "220.00",
       "status": "3"
     },
@@ -832,6 +832,14 @@
       "price": "230.00",
       "status": "3"
     },
+    "IMJN|19246|20260810|EXECUTIVE": {
+      "venue": "INOX: Metro, Jawaharlal Nehru Road",
+      "time": "01:15 PM",
+      "date": "20260810",
+      "cat": "EXECUTIVE",
+      "price": "210.00",
+      "status": "3"
+    },
     "IMJN|19246|20260810|ROYAL": {
       "venue": "INOX: Metro, Jawaharlal Nehru Road",
       "time": "01:15 PM",
@@ -848,12 +856,12 @@
       "price": "210.00",
       "status": "3"
     },
-    "IMJN|19246|20260810|EXECUTIVE": {
+    "IMJN|19247|20260810|ROYAL": {
       "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "01:15 PM",
+      "time": "07:25 PM",
       "date": "20260810",
-      "cat": "EXECUTIVE",
-      "price": "210.00",
+      "cat": "ROYAL",
+      "price": "220.00",
       "status": "3"
     },
     "IMJN|19247|20260810|CLUB": {
@@ -869,14 +877,6 @@
       "time": "07:25 PM",
       "date": "20260810",
       "cat": "EXECUTIVE",
-      "price": "220.00",
-      "status": "3"
-    },
-    "IMJN|19247|20260810|ROYAL": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "07:25 PM",
-      "date": "20260810",
-      "cat": "ROYAL",
       "price": "220.00",
       "status": "3"
     },
