@@ -448,6 +448,14 @@
       "price": "300.00",
       "status": "3"
     },
+    "INSL|111956|20260810|PRIME ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "11:00 AM",
+      "date": "20260810",
+      "cat": "PRIME ROWS",
+      "price": "200.00",
+      "status": "3"
+    },
     "INSL|111956|20260810|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "11:00 AM",
@@ -464,12 +472,12 @@
       "price": "200.00",
       "status": "3"
     },
-    "INSL|111956|20260810|PRIME ROWS": {
+    "INSL|111957|20260810|ROYAL ROWS": {
       "venue": "INOX: City Center, Salt Lake",
-      "time": "11:00 AM",
+      "time": "12:40 PM",
       "date": "20260810",
-      "cat": "PRIME ROWS",
-      "price": "200.00",
+      "cat": "ROYAL ROWS",
+      "price": "220.00",
       "status": "3"
     },
     "INSL|111957|20260810|CLASSIC ROWS": {
@@ -485,14 +493,6 @@
       "time": "12:40 PM",
       "date": "20260810",
       "cat": "PRIME ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "INSL|111957|20260810|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "12:40 PM",
-      "date": "20260810",
-      "cat": "ROYAL ROWS",
       "price": "220.00",
       "status": "3"
     },
@@ -520,6 +520,14 @@
       "price": "220.00",
       "status": "3"
     },
+    "INSL|111959|20260810|ROYAL ROWS": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "09:55 PM",
+      "date": "20260810",
+      "cat": "ROYAL ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
     "INSL|111959|20260810|CLASSIC ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "09:55 PM",
@@ -533,14 +541,6 @@
       "time": "09:55 PM",
       "date": "20260810",
       "cat": "PRIME ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "INSL|111959|20260810|ROYAL ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:55 PM",
-      "date": "20260810",
-      "cat": "ROYAL ROWS",
       "price": "220.00",
       "status": "3"
     },
@@ -856,14 +856,6 @@
       "price": "210.00",
       "status": "3"
     },
-    "IMJN|19247|20260810|EXECUTIVE": {
-      "venue": "INOX: Metro, Jawaharlal Nehru Road",
-      "time": "07:25 PM",
-      "date": "20260810",
-      "cat": "EXECUTIVE",
-      "price": "220.00",
-      "status": "3"
-    },
     "IMJN|19247|20260810|ROYAL": {
       "venue": "INOX: Metro, Jawaharlal Nehru Road",
       "time": "07:25 PM",
@@ -877,6 +869,14 @@
       "time": "07:25 PM",
       "date": "20260810",
       "cat": "CLUB",
+      "price": "220.00",
+      "status": "3"
+    },
+    "IMJN|19247|20260810|EXECUTIVE": {
+      "venue": "INOX: Metro, Jawaharlal Nehru Road",
+      "time": "07:25 PM",
+      "date": "20260810",
+      "cat": "EXECUTIVE",
       "price": "220.00",
       "status": "3"
     },
