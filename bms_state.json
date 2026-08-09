@@ -6,7 +6,7 @@
       "date": "20260809",
       "cat": "RECLINER",
       "price": "700.00",
-      "status": "1"
+      "status": "0"
     },
     "DMPZ|25637|20260809|PRIME": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -134,7 +134,7 @@
       "date": "20260809",
       "cat": "PRIME",
       "price": "460.00",
-      "status": "2"
+      "status": "1"
     },
     "MSMA|21391|20260809|CLASSIC": {
       "venue": "PVR: Mani Square Mall, Kolkata",
@@ -205,7 +205,7 @@
       "time": "03:45 PM",
       "date": "20260809",
       "cat": "CLUB",
-      "price": "420.00",
+      "price": "460.00",
       "status": "2"
     },
     "INRK|96879|20260809|EXECUTIVE": {
@@ -278,7 +278,7 @@
       "date": "20260809",
       "cat": "ROYAL ROWS",
       "price": "510.00",
-      "status": "1"
+      "status": "2"
     },
     "INSL|111927|20260809|PRIME ROWS": {
       "venue": "INOX: City Center, Salt Lake",
@@ -326,7 +326,7 @@
       "date": "20260809",
       "cat": "Royal",
       "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "INER|94867|20260809|Dress Circle": {
       "venue": "INOX: Forum Mall, Elgin Road",
@@ -477,7 +477,7 @@
       "time": "03:45 PM",
       "date": "20260809",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "340.00",
+      "price": "390.00",
       "status": "3"
     },
     "PVAK|19468|20260809|PRIME PLUS SOFA ROWS": {
